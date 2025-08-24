@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Administrator
+      password: $2b$12$iLW5T4oROwIDiVzm5ndgfufAnztAsQ.iHKGITfrDAlYIQ5mbJt9Gq
+      role: admin
+cookie:
+  name: analytics_app
+  key: CHANGE_THIS_KEY_1
+  expiry_days: 14
+preauthorized:
+  emails: []
